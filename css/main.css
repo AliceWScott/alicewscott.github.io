@@ -1,10 +1,10 @@
 body {
     margin: 60px auto;
     width: 70%;
-    font-family: "Proxima Nova", Helvetica, sans-serif;
+    font-family: "Roboto Mono", Helvetica, sans-serif;
 }
 nav ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: "Roboto Mono", Helvetica, sans-serif;
     padding: 0px;
     list-style: none;
     font-weight: bold;
