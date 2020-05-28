@@ -42,3 +42,8 @@ img {
   height: 300px;   
   border-radius: 10px;
 }
+
+.content {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
