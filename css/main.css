@@ -5,7 +5,7 @@ body {
 }
 
 ul li {
-    display: inline;
+    display: list-item;
     margin-right: 20px;
     padding-top: 5px;
     padding-bottom: 5px;
@@ -43,4 +43,9 @@ p {
 .content {
     padding-top: 10px;
     padding-bottom: 10px;
+}
+
+.blurb {
+    display: flex;
+    flex-direction: row;
 }
