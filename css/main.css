@@ -5,6 +5,10 @@ body {
     font-weight: 300;
 }
 
+nav ul {
+    padding-inline-start: 0px;   
+}
+
 ul li {
     display: list-item;
     margin-right: 20px;
@@ -47,7 +51,15 @@ p {
     padding-bottom: 10px;
 }
 
+.content ul li {
+  display: list-item;
+}
+
 .blurb {
     display: flex;
     flex-direction: row;
+}
+
+.blurb-text p {
+  color: #b0dfe5;
 }
