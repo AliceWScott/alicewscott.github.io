@@ -2,6 +2,7 @@ body {
     margin: 60px auto;
     width: 70%;
     font-family: "Roboto Mono", Helvetica, sans-serif;
+    font-weight: 300;
 }
 
 ul li {
@@ -31,8 +32,9 @@ h1 {
 
 p {
     font-size: 1.5em;
+    font-weight: 300;
     line-height: 1.4em;
-    color: #333;
+    color: darkgray;
 }
 
 .image {
