@@ -58,6 +58,13 @@ p {
 .blurb {
     display: flex;
     flex-direction: row;
+    margin-bottom: 20px;
+}
+
+.blurb-text {
+    display:flex;
+    flex-direction: column;
+    margin-right: 80px;
 }
 
 .blurb-text p {
