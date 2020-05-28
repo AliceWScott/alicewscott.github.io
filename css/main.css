@@ -35,7 +35,7 @@ p {
     color: #333;
 }
 
-img {
+.image {
   height: 300px;   
   border-radius: 10px;
 }
