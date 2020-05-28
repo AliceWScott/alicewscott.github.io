@@ -3,26 +3,30 @@ body {
     width: 70%;
     font-family: "Roboto Mono", Helvetica, sans-serif;
 }
-nav ul {
-    font-family: "Roboto Mono", Helvetica, sans-serif;
-    padding: 0px;
-    list-style: none;
-}
-nav ul li, footer ul li {
+
+ul li {
     display: inline;
     margin-right: 20px;
 }
+
 a {
-    text-decoration: none;
-    color: #999;
+    font-family: "Roboto Mono", Helvetica, sans-serif;
+    padding: 0px;
+    list-style: none;
+    text-decoration: underline;
+    color: #555;
 }
+
 a:hover {
     text-decoration: underline;
     color: #b0dfe5;
 }
+
 h1 {
     font-size: 3em;
+    font-weight: 500;
 }
+
 p {
     font-size: 1.5em;
     line-height: 1.4em;
