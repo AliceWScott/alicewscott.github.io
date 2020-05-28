@@ -64,7 +64,7 @@ p {
 .blurb-text {
     display:flex;
     flex-direction: column;
-    margin-right: 80px;
+    margin-right: 100px;
 }
 
 .blurb-text p {
